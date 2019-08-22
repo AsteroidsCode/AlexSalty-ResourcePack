@@ -1,4 +1,4 @@
-# Minecraft: Java Edition Resource Pack
+# Minecraft: Alex Salty Resource Pack
 
 ## Game Changelogs
 ### v1.14.4
