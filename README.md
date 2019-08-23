@@ -1,4 +1,4 @@
-# Minecraft: Alex Salty Resource Pack
+# Minecraft: Sven's Pad Resource Pack
 
 ## Game Changelogs
 ### v1.14.4
