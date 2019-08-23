@@ -2,6 +2,12 @@
 [C]§eMinecraft Team
 [C]§f============
 
+§7Sven's Pad Pack
+§f          Jonathan Voss
+§f          Dante Christey
+§f          Alex Smith
+§f          Mohammed Khalil
+
 §7Original Creator
 §f          Markus Persson
 
